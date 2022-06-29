@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LICTest</string>
+    <string name="emails">Email</string>
+    <string name="passwords">password</string>
+    <string name="signins">SignIn</string>
+    <string name="forgot_passwords">Forgot Password</string>
+    <string name="password">password</string>
+    <string name="re_enter_password">re-enter password</string>
+    <string name="signup">SignUp</string>
+    <string name="shiva_insurance">Shiva Insurance</string>
+    <string name="app_names">clients</string>
+</resources>
